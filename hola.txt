@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 0696-E124
+
+ Pasta de C:\Users\Tecnico\Desktop\Aulinha0509
+
+05/09/2023  17:32    <DIR>          .
+05/09/2023  17:32    <DIR>          ..
+05/09/2023  17:29                28 Aulinhanova.txt
+05/09/2023  17:32                 0 hola.txt
+               2 arquivo(s)             28 bytes
+               2 pasta(s)   211.366.232.064 bytes dispon°veis
